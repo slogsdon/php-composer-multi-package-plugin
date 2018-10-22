@@ -20,7 +20,7 @@
         }
     },
     "extra": {
-        "class": "Composer\\AutoPathReposPlugin"
+        "class": "Composer\\MultiPackagePlugin"
     },
     "require": {
         "composer-plugin-api": "^1.1"
